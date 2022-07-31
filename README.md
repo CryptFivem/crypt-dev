@@ -1,6 +1,9 @@
-                                    Hi, I'm Crypt im a fivem developer and i am learning new things everyday!
-• Im currently working on GMT (https://discord.io/gmtuk)
-• Im currently learning C#
-• Reach me on discord - Crypt#7855
-• Projects will be available when my website has been made
-• Dm me if your looking to collaborate
+🔭 I’m currently working on GMT (https://discord.io/gmtuk)
+
+🌱 I’m currently learning Javascript
+
+👯 I’m looking to collaborate on Anything
+
+👨‍💻 All of my projects are available at Website, being made
+
+📫 How to reach me Discord - sly#3175
